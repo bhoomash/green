@@ -1,0 +1,501 @@
+Crop Name,Soil Type,Climate Requirements,Watering Frequency,Fertilizer Type,Pest Control Methods,Harvest Time (Days),Yield per Acre (kg),Market Price (USD/ton)
+Onion,Sandy Loam,"Moderate, Dry",Daily,Organic Compost,Neem Spray,147,3151,435
+Cotton,Clay Loam,"Moderate, Dry",Weekly,Potassium-rich,Crop Rotation,108,4976,463
+Potato,Clayey,"Moderate, Dry",Every 3 Days,Organic Compost,Manual Removal,60,2872,498
+Rice,Sandy Loam,"Warm, Moderate",Every 3 Days,Organic Compost,Pesticide Spray,70,3088,581
+Rice,Clay Loam,"Cool, Moist",Twice a Week,Phosphorus-rich,Biological Control,149,3906,534
+Maize,Sandy Loam,"Cool, Dry",Daily,Potassium-rich,Pesticide Spray,116,3334,234
+Rice,Sandy Loam,"Cool, Moist",Every 3 Days,NPK Mix,Pesticide Spray,74,5897,209
+Rice,Clay Loam,"Cool, Dry",Weekly,Nitrogen-based,Biological Control,105,4257,279
+Sugarcane,Clayey,"Warm, Humid",Every 3 Days,Organic Compost,Biological Control,119,4518,314
+Sugarcane,Loamy,"Cool, Moist",Every 2 Days,Potassium-rich,Crop Rotation,75,4416,507
+Tomato,Clayey,"Cool, Dry",Twice a Week,Organic Compost,Biological Control,158,2556,219
+Potato,Loamy,"Moderate, Dry",Weekly,NPK Mix,Biological Control,97,4993,150
+Wheat,Loamy,"Warm, Humid",Twice a Week,Organic Compost,Neem Spray,180,5698,168
+Potato,Sandy,"Warm, Moderate",Twice a Week,Phosphorus-rich,Neem Spray,92,5896,449
+Wheat,Loamy,"Cool, Moist",Every 2 Days,Organic Compost,Pesticide Spray,169,5417,382
+Sugarcane,Sandy,"Warm, Moderate",Twice a Week,NPK Mix,Manual Removal,99,5015,390
+Rice,Clayey,"Warm, Moderate",Weekly,Nitrogen-based,Pesticide Spray,112,2516,164
+Tomato,Sandy Loam,"Warm, Moderate",Weekly,Phosphorus-rich,Manual Removal,102,5593,471
+Maize,Sandy Loam,"Cool, Dry",Daily,Phosphorus-rich,Biological Control,61,4477,484
+Rice,Clay Loam,"Cool, Dry",Twice a Week,Nitrogen-based,Crop Rotation,132,4960,214
+Barley,Clay Loam,"Warm, Moderate",Every 3 Days,NPK Mix,Biological Control,170,3568,510
+Wheat,Sandy Loam,"Cool, Dry",Weekly,Organic Compost,Biological Control,155,4664,249
+Wheat,Sandy,"Warm, Moderate",Every 2 Days,Phosphorus-rich,Manual Removal,176,3937,413
+Cotton,Sandy,"Warm, Moderate",Every 2 Days,Phosphorus-rich,Neem Spray,78,4217,554
+Wheat,Clayey,"Cool, Moist",Weekly,Nitrogen-based,Manual Removal,92,3573,380
+Maize,Sandy,"Warm, Moderate",Every 3 Days,NPK Mix,Biological Control,122,3635,289
+Onion,Clay Loam,"Warm, Humid",Daily,Phosphorus-rich,Neem Spray,62,4287,440
+Tomato,Clayey,"Moderate, Dry",Twice a Week,NPK Mix,Biological Control,103,3688,559
+Sugarcane,Clayey,"Warm, Humid",Every 3 Days,Potassium-rich,Crop Rotation,165,5372,564
+Wheat,Clayey,"Cool, Moist",Every 3 Days,Organic Compost,Crop Rotation,101,5767,592
+Cotton,Loamy,"Cool, Moist",Twice a Week,Nitrogen-based,Manual Removal,159,3986,550
+Sugarcane,Sandy Loam,"Warm, Humid",Daily,Phosphorus-rich,Manual Removal,135,5116,303
+Rice,Loamy,"Moderate, Dry",Every 2 Days,Organic Compost,Manual Removal,88,3217,229
+Maize,Sandy,"Moderate, Dry",Daily,Phosphorus-rich,Pesticide Spray,170,5113,503
+Tomato,Sandy,"Cool, Dry",Every 3 Days,Nitrogen-based,Pesticide Spray,77,3894,186
+Tomato,Loamy,"Cool, Dry",Daily,Potassium-rich,Crop Rotation,120,3639,216
+Wheat,Sandy Loam,"Cool, Moist",Twice a Week,Organic Compost,Neem Spray,140,2273,534
+Barley,Sandy Loam,"Cool, Dry",Every 3 Days,Phosphorus-rich,Neem Spray,136,3453,498
+Barley,Sandy Loam,"Warm, Moderate",Twice a Week,NPK Mix,Pesticide Spray,165,5327,198
+Rice,Clay Loam,"Cool, Dry",Weekly,Nitrogen-based,Biological Control,176,3642,451
+Cotton,Sandy Loam,"Warm, Humid",Weekly,NPK Mix,Crop Rotation,138,2175,453
+Potato,Sandy,"Cool, Moist",Daily,Phosphorus-rich,Crop Rotation,141,4681,164
+Potato,Sandy,"Warm, Humid",Every 2 Days,NPK Mix,Biological Control,106,5750,336
+Sugarcane,Loamy,"Warm, Moderate",Twice a Week,NPK Mix,Neem Spray,84,5346,562
+Onion,Loamy,"Warm, Moderate",Weekly,NPK Mix,Manual Removal,155,4708,471
+Sugarcane,Clayey,"Cool, Moist",Daily,Nitrogen-based,Manual Removal,171,5583,216
+Wheat,Sandy,"Cool, Moist",Weekly,Organic Compost,Crop Rotation,95,3057,597
+Maize,Clay Loam,"Cool, Dry",Every 2 Days,Phosphorus-rich,Neem Spray,86,4864,369
+Onion,Loamy,"Warm, Humid",Every 2 Days,Nitrogen-based,Neem Spray,165,5013,537
+Maize,Clayey,"Cool, Dry",Twice a Week,Nitrogen-based,Biological Control,89,3193,561
+Sugarcane,Sandy,"Warm, Humid",Daily,Potassium-rich,Pesticide Spray,93,3388,455
+Sugarcane,Loamy,"Moderate, Dry",Daily,NPK Mix,Manual Removal,161,2661,203
+Rice,Clayey,"Warm, Moderate",Every 2 Days,Nitrogen-based,Manual Removal,131,4712,306
+Maize,Sandy,"Warm, Humid",Daily,Phosphorus-rich,Neem Spray,128,3554,281
+Onion,Clayey,"Warm, Humid",Twice a Week,Potassium-rich,Crop Rotation,107,4226,316
+Maize,Clay Loam,"Cool, Moist",Every 3 Days,Nitrogen-based,Biological Control,135,4629,397
+Potato,Sandy,"Warm, Moderate",Every 2 Days,Phosphorus-rich,Manual Removal,114,5011,290
+Barley,Loamy,"Cool, Dry",Every 3 Days,Nitrogen-based,Pesticide Spray,177,3124,558
+Onion,Clayey,"Cool, Dry",Twice a Week,NPK Mix,Manual Removal,176,5586,247
+Tomato,Sandy,"Moderate, Dry",Weekly,Potassium-rich,Pesticide Spray,137,3136,325
+Rice,Clayey,"Cool, Dry",Daily,Nitrogen-based,Neem Spray,139,5822,546
+Wheat,Clay Loam,"Cool, Moist",Every 3 Days,Organic Compost,Pesticide Spray,64,3030,595
+Maize,Clay Loam,"Warm, Moderate",Every 3 Days,Nitrogen-based,Manual Removal,165,2848,453
+Maize,Clay Loam,"Moderate, Dry",Twice a Week,Nitrogen-based,Biological Control,94,4087,269
+Tomato,Sandy,"Cool, Moist",Twice a Week,Potassium-rich,Manual Removal,91,3623,277
+Tomato,Sandy,"Cool, Moist",Every 3 Days,Organic Compost,Pesticide Spray,106,5016,417
+Sugarcane,Clayey,"Cool, Moist",Daily,Nitrogen-based,Neem Spray,71,3299,453
+Tomato,Sandy Loam,"Warm, Moderate",Every 2 Days,NPK Mix,Crop Rotation,176,5596,530
+Maize,Loamy,"Warm, Humid",Daily,Potassium-rich,Neem Spray,117,2537,548
+Rice,Clay Loam,"Cool, Moist",Every 3 Days,Organic Compost,Neem Spray,174,5196,396
+Barley,Sandy Loam,"Cool, Dry",Every 3 Days,NPK Mix,Crop Rotation,130,3335,156
+Onion,Sandy,"Cool, Dry",Daily,NPK Mix,Pesticide Spray,67,3643,568
+Onion,Sandy,"Warm, Moderate",Twice a Week,Organic Compost,Pesticide Spray,115,4799,594
+Maize,Clayey,"Warm, Moderate",Every 2 Days,Nitrogen-based,Manual Removal,114,4999,431
+Wheat,Sandy Loam,"Moderate, Dry",Twice a Week,Phosphorus-rich,Manual Removal,73,3537,231
+Maize,Sandy,"Warm, Moderate",Daily,NPK Mix,Biological Control,147,5846,161
+Rice,Sandy Loam,"Warm, Humid",Daily,Organic Compost,Crop Rotation,101,2777,208
+Onion,Sandy Loam,"Cool, Moist",Every 2 Days,Potassium-rich,Manual Removal,158,4252,160
+Soybean,Sandy Loam,"Cool, Dry",Weekly,NPK Mix,Crop Rotation,160,3102,334
+Wheat,Clayey,"Cool, Moist",Twice a Week,Potassium-rich,Biological Control,72,5911,598
+Onion,Sandy,"Warm, Moderate",Daily,Potassium-rich,Biological Control,102,5889,505
+Potato,Sandy Loam,"Moderate, Dry",Every 2 Days,Potassium-rich,Crop Rotation,145,5390,272
+Sugarcane,Sandy Loam,"Warm, Humid",Daily,Organic Compost,Manual Removal,157,4505,420
+Maize,Loamy,"Warm, Humid",Weekly,NPK Mix,Crop Rotation,142,2128,311
+Onion,Sandy,"Warm, Moderate",Daily,Potassium-rich,Neem Spray,164,4612,234
+Maize,Clayey,"Cool, Moist",Every 3 Days,Organic Compost,Pesticide Spray,79,2340,564
+Onion,Clayey,"Warm, Humid",Every 3 Days,Phosphorus-rich,Crop Rotation,139,2478,299
+Sugarcane,Clay Loam,"Moderate, Dry",Every 3 Days,Phosphorus-rich,Biological Control,86,4489,314
+Potato,Sandy Loam,"Warm, Moderate",Weekly,Potassium-rich,Crop Rotation,128,5903,162
+Soybean,Clayey,"Moderate, Dry",Every 3 Days,Organic Compost,Manual Removal,120,4633,199
+Wheat,Clay Loam,"Moderate, Dry",Twice a Week,Nitrogen-based,Pesticide Spray,63,2589,517
+Potato,Loamy,"Warm, Humid",Daily,NPK Mix,Neem Spray,138,4600,516
+Tomato,Sandy Loam,"Moderate, Dry",Every 2 Days,NPK Mix,Pesticide Spray,171,3609,154
+Soybean,Loamy,"Cool, Moist",Every 3 Days,Potassium-rich,Biological Control,129,4977,311
+Wheat,Clay Loam,"Moderate, Dry",Every 2 Days,Phosphorus-rich,Manual Removal,102,3787,548
+Sugarcane,Clayey,"Moderate, Dry",Every 2 Days,Nitrogen-based,Pesticide Spray,79,5536,598
+Tomato,Sandy Loam,"Warm, Moderate",Weekly,Phosphorus-rich,Manual Removal,145,4447,303
+Wheat,Loamy,"Warm, Humid",Every 2 Days,Potassium-rich,Neem Spray,99,5108,401
+Sugarcane,Sandy,"Warm, Moderate",Every 2 Days,Organic Compost,Crop Rotation,177,3612,378
+Maize,Clayey,"Moderate, Dry",Daily,Potassium-rich,Biological Control,165,5975,345
+Barley,Clayey,"Warm, Humid",Daily,Nitrogen-based,Pesticide Spray,80,4610,453
+Tomato,Loamy,"Cool, Moist",Twice a Week,Potassium-rich,Biological Control,91,3986,214
+Soybean,Sandy,"Moderate, Dry",Every 2 Days,Potassium-rich,Neem Spray,177,4973,289
+Tomato,Sandy Loam,"Cool, Dry",Every 3 Days,Potassium-rich,Manual Removal,171,4349,447
+Soybean,Clay Loam,"Cool, Dry",Every 2 Days,Potassium-rich,Neem Spray,83,5790,343
+Rice,Clay Loam,"Cool, Moist",Every 3 Days,Organic Compost,Biological Control,139,2312,233
+Barley,Loamy,"Warm, Moderate",Weekly,Potassium-rich,Manual Removal,144,3952,324
+Cotton,Sandy,"Warm, Moderate",Every 2 Days,Phosphorus-rich,Neem Spray,156,3970,229
+Maize,Clayey,"Cool, Moist",Daily,NPK Mix,Manual Removal,97,2832,400
+Potato,Sandy,"Warm, Humid",Every 2 Days,Organic Compost,Neem Spray,161,2125,256
+Potato,Clay Loam,"Warm, Moderate",Every 2 Days,NPK Mix,Crop Rotation,90,3969,198
+Onion,Sandy Loam,"Warm, Humid",Twice a Week,NPK Mix,Pesticide Spray,102,2654,171
+Barley,Sandy,"Cool, Dry",Daily,Nitrogen-based,Biological Control,170,5523,212
+Potato,Clay Loam,"Warm, Moderate",Daily,Organic Compost,Manual Removal,162,4992,485
+Potato,Clay Loam,"Cool, Moist",Twice a Week,Phosphorus-rich,Crop Rotation,109,3616,406
+Potato,Clay Loam,"Warm, Moderate",Daily,Phosphorus-rich,Crop Rotation,121,3588,458
+Maize,Sandy,"Warm, Humid",Every 2 Days,Nitrogen-based,Pesticide Spray,84,5761,150
+Sugarcane,Clayey,"Warm, Moderate",Daily,Phosphorus-rich,Crop Rotation,114,5045,215
+Rice,Clayey,"Cool, Dry",Daily,Potassium-rich,Biological Control,157,5382,516
+Rice,Loamy,"Cool, Moist",Every 2 Days,NPK Mix,Crop Rotation,179,3117,572
+Potato,Sandy,"Warm, Moderate",Every 2 Days,Phosphorus-rich,Neem Spray,104,2314,535
+Onion,Clay Loam,"Moderate, Dry",Every 2 Days,Nitrogen-based,Pesticide Spray,138,2056,315
+Sugarcane,Loamy,"Cool, Moist",Every 3 Days,Phosphorus-rich,Manual Removal,117,3774,204
+Soybean,Clayey,"Warm, Moderate",Twice a Week,NPK Mix,Pesticide Spray,138,3878,376
+Barley,Loamy,"Cool, Dry",Twice a Week,NPK Mix,Biological Control,103,2038,370
+Onion,Loamy,"Cool, Moist",Every 2 Days,Organic Compost,Pesticide Spray,160,5521,298
+Maize,Sandy,"Cool, Moist",Twice a Week,Organic Compost,Crop Rotation,155,4600,332
+Cotton,Sandy,"Moderate, Dry",Twice a Week,Phosphorus-rich,Neem Spray,120,3352,563
+Maize,Loamy,"Warm, Humid",Every 2 Days,Phosphorus-rich,Manual Removal,100,2313,166
+Tomato,Sandy,"Warm, Moderate",Every 2 Days,Nitrogen-based,Manual Removal,93,4042,456
+Sugarcane,Clayey,"Warm, Humid",Every 3 Days,Organic Compost,Neem Spray,145,2905,562
+Cotton,Clay Loam,"Moderate, Dry",Every 3 Days,Phosphorus-rich,Crop Rotation,160,2835,234
+Soybean,Sandy,"Moderate, Dry",Every 2 Days,Organic Compost,Manual Removal,69,2432,349
+Rice,Sandy,"Warm, Humid",Weekly,NPK Mix,Biological Control,109,4203,367
+Rice,Loamy,"Warm, Humid",Twice a Week,Potassium-rich,Pesticide Spray,162,4936,371
+Onion,Sandy,"Moderate, Dry",Every 3 Days,NPK Mix,Biological Control,107,4597,529
+Sugarcane,Loamy,"Cool, Moist",Every 2 Days,Potassium-rich,Crop Rotation,132,2689,275
+Onion,Sandy,"Warm, Humid",Every 3 Days,Phosphorus-rich,Crop Rotation,162,2200,548
+Onion,Sandy,"Cool, Moist",Every 3 Days,Nitrogen-based,Pesticide Spray,137,5316,246
+Onion,Clayey,"Cool, Moist",Every 2 Days,Potassium-rich,Manual Removal,82,3072,262
+Soybean,Sandy,"Warm, Moderate",Daily,Nitrogen-based,Manual Removal,66,5160,200
+Sugarcane,Clayey,"Warm, Moderate",Twice a Week,Potassium-rich,Biological Control,153,5505,348
+Tomato,Sandy Loam,"Cool, Moist",Daily,Nitrogen-based,Pesticide Spray,88,4542,295
+Rice,Sandy Loam,"Warm, Moderate",Every 3 Days,Organic Compost,Pesticide Spray,137,2499,400
+Tomato,Loamy,"Warm, Humid",Weekly,Organic Compost,Manual Removal,78,3436,414
+Cotton,Clay Loam,"Moderate, Dry",Twice a Week,Phosphorus-rich,Neem Spray,78,4730,307
+Soybean,Clay Loam,"Warm, Moderate",Weekly,Nitrogen-based,Manual Removal,160,4232,471
+Sugarcane,Sandy Loam,"Cool, Moist",Every 3 Days,Nitrogen-based,Manual Removal,102,5178,195
+Barley,Loamy,"Cool, Dry",Twice a Week,Phosphorus-rich,Pesticide Spray,142,3223,582
+Wheat,Clayey,"Moderate, Dry",Daily,Phosphorus-rich,Pesticide Spray,176,2690,159
+Sugarcane,Loamy,"Moderate, Dry",Weekly,Organic Compost,Biological Control,67,5851,387
+Onion,Loamy,"Cool, Dry",Every 3 Days,Organic Compost,Neem Spray,130,2707,563
+Onion,Sandy Loam,"Warm, Humid",Every 3 Days,NPK Mix,Neem Spray,131,4677,385
+Soybean,Loamy,"Warm, Humid",Every 2 Days,Phosphorus-rich,Crop Rotation,130,5595,576
+Sugarcane,Clayey,"Moderate, Dry",Every 3 Days,Organic Compost,Pesticide Spray,88,3711,381
+Soybean,Clay Loam,"Cool, Dry",Twice a Week,Phosphorus-rich,Biological Control,100,2635,219
+Wheat,Clayey,"Moderate, Dry",Every 2 Days,Nitrogen-based,Manual Removal,143,4021,156
+Sugarcane,Sandy Loam,"Moderate, Dry",Twice a Week,Potassium-rich,Crop Rotation,170,4262,488
+Sugarcane,Loamy,"Cool, Moist",Every 2 Days,NPK Mix,Crop Rotation,113,4484,179
+Onion,Clay Loam,"Warm, Moderate",Weekly,Potassium-rich,Neem Spray,75,2947,442
+Rice,Loamy,"Warm, Humid",Weekly,Organic Compost,Manual Removal,126,2864,169
+Soybean,Clay Loam,"Warm, Humid",Weekly,Phosphorus-rich,Crop Rotation,166,3285,465
+Soybean,Clay Loam,"Cool, Dry",Weekly,Nitrogen-based,Biological Control,167,4163,390
+Maize,Sandy,"Warm, Humid",Every 3 Days,NPK Mix,Neem Spray,74,5432,533
+Wheat,Loamy,"Cool, Dry",Weekly,Nitrogen-based,Neem Spray,128,4527,207
+Tomato,Clay Loam,"Warm, Humid",Twice a Week,Phosphorus-rich,Biological Control,75,2596,298
+Sugarcane,Sandy,"Warm, Moderate",Every 3 Days,Organic Compost,Biological Control,72,5904,224
+Sugarcane,Clay Loam,"Cool, Dry",Twice a Week,Potassium-rich,Neem Spray,64,3384,248
+Wheat,Clayey,"Cool, Dry",Twice a Week,Nitrogen-based,Manual Removal,154,2268,359
+Sugarcane,Clay Loam,"Cool, Moist",Daily,Phosphorus-rich,Crop Rotation,165,5736,309
+Maize,Clay Loam,"Cool, Dry",Every 2 Days,Potassium-rich,Pesticide Spray,142,3093,203
+Onion,Clayey,"Cool, Moist",Every 2 Days,NPK Mix,Manual Removal,158,2644,299
+Potato,Sandy Loam,"Moderate, Dry",Weekly,NPK Mix,Crop Rotation,147,3440,290
+Potato,Sandy Loam,"Moderate, Dry",Daily,Organic Compost,Pesticide Spray,79,4743,442
+Cotton,Sandy,"Moderate, Dry",Every 2 Days,Organic Compost,Manual Removal,131,5854,572
+Potato,Clay Loam,"Warm, Humid",Every 3 Days,Organic Compost,Crop Rotation,87,4713,228
+Wheat,Clayey,"Cool, Moist",Every 3 Days,Phosphorus-rich,Biological Control,67,3432,411
+Wheat,Clay Loam,"Moderate, Dry",Twice a Week,Phosphorus-rich,Neem Spray,68,3246,576
+Barley,Sandy Loam,"Cool, Dry",Daily,Potassium-rich,Crop Rotation,134,4130,170
+Wheat,Loamy,"Cool, Moist",Every 2 Days,Potassium-rich,Biological Control,173,2631,319
+Soybean,Clay Loam,"Cool, Moist",Twice a Week,Phosphorus-rich,Crop Rotation,156,4660,572
+Tomato,Sandy Loam,"Warm, Humid",Daily,NPK Mix,Manual Removal,163,3745,350
+Tomato,Clay Loam,"Warm, Moderate",Every 3 Days,Organic Compost,Biological Control,159,5615,568
+Maize,Clay Loam,"Moderate, Dry",Weekly,Nitrogen-based,Manual Removal,89,4297,165
+Barley,Sandy Loam,"Cool, Dry",Daily,Nitrogen-based,Biological Control,151,5627,569
+Maize,Clay Loam,"Cool, Moist",Every 2 Days,Potassium-rich,Pesticide Spray,152,4615,522
+Onion,Sandy,"Warm, Moderate",Daily,Phosphorus-rich,Crop Rotation,137,2018,333
+Tomato,Sandy,"Cool, Dry",Every 2 Days,Nitrogen-based,Pesticide Spray,175,2180,513
+Barley,Clayey,"Cool, Dry",Every 3 Days,Potassium-rich,Biological Control,73,3747,235
+Soybean,Clay Loam,"Cool, Moist",Daily,Phosphorus-rich,Neem Spray,153,5273,582
+Onion,Clayey,"Cool, Dry",Every 3 Days,NPK Mix,Manual Removal,74,3787,213
+Rice,Clay Loam,"Cool, Dry",Every 2 Days,Nitrogen-based,Crop Rotation,74,2758,458
+Tomato,Sandy,"Moderate, Dry",Twice a Week,Organic Compost,Pesticide Spray,90,4193,447
+Tomato,Sandy Loam,"Warm, Moderate",Every 3 Days,Nitrogen-based,Crop Rotation,170,2544,390
+Onion,Loamy,"Warm, Moderate",Twice a Week,Potassium-rich,Crop Rotation,147,2312,284
+Soybean,Clayey,"Cool, Moist",Every 2 Days,Organic Compost,Pesticide Spray,123,4036,379
+Maize,Sandy Loam,"Moderate, Dry",Twice a Week,Potassium-rich,Manual Removal,109,3973,423
+Onion,Sandy Loam,"Moderate, Dry",Every 2 Days,Nitrogen-based,Biological Control,71,5936,357
+Tomato,Sandy Loam,"Cool, Dry",Weekly,Potassium-rich,Pesticide Spray,77,4434,415
+Sugarcane,Sandy Loam,"Cool, Dry",Twice a Week,Nitrogen-based,Neem Spray,162,5205,298
+Soybean,Clayey,"Moderate, Dry",Every 2 Days,Nitrogen-based,Pesticide Spray,73,4759,306
+Barley,Clayey,"Cool, Moist",Twice a Week,Potassium-rich,Crop Rotation,68,2220,206
+Potato,Clayey,"Cool, Moist",Every 3 Days,Phosphorus-rich,Pesticide Spray,129,2059,541
+Wheat,Sandy Loam,"Warm, Moderate",Weekly,Nitrogen-based,Neem Spray,66,2069,513
+Potato,Sandy,"Warm, Moderate",Every 3 Days,Potassium-rich,Biological Control,83,2396,316
+Rice,Clay Loam,"Warm, Humid",Every 3 Days,Phosphorus-rich,Biological Control,73,2932,183
+Onion,Loamy,"Warm, Moderate",Twice a Week,Nitrogen-based,Crop Rotation,95,4467,405
+Wheat,Clay Loam,"Warm, Moderate",Every 2 Days,Organic Compost,Crop Rotation,65,3155,173
+Maize,Loamy,"Cool, Moist",Every 3 Days,Organic Compost,Biological Control,132,2507,156
+Soybean,Loamy,"Warm, Humid",Twice a Week,Organic Compost,Pesticide Spray,91,3447,369
+Maize,Loamy,"Cool, Moist",Twice a Week,Phosphorus-rich,Biological Control,157,3397,152
+Sugarcane,Sandy Loam,"Warm, Humid",Twice a Week,NPK Mix,Neem Spray,83,3683,492
+Rice,Clay Loam,"Warm, Humid",Every 3 Days,Nitrogen-based,Crop Rotation,115,2699,330
+Wheat,Clay Loam,"Warm, Moderate",Every 2 Days,Potassium-rich,Crop Rotation,151,4141,160
+Tomato,Loamy,"Cool, Moist",Twice a Week,Nitrogen-based,Pesticide Spray,104,4157,248
+Rice,Sandy Loam,"Warm, Moderate",Daily,Potassium-rich,Neem Spray,162,5970,205
+Sugarcane,Sandy Loam,"Cool, Dry",Daily,Potassium-rich,Neem Spray,100,2250,174
+Soybean,Loamy,"Cool, Moist",Twice a Week,Potassium-rich,Manual Removal,161,2282,176
+Onion,Sandy,"Warm, Moderate",Every 3 Days,Potassium-rich,Pesticide Spray,150,3782,590
+Tomato,Clay Loam,"Warm, Moderate",Daily,Phosphorus-rich,Pesticide Spray,100,2611,434
+Sugarcane,Clayey,"Cool, Dry",Every 2 Days,Nitrogen-based,Crop Rotation,72,2980,351
+Sugarcane,Clay Loam,"Warm, Moderate",Daily,NPK Mix,Biological Control,79,3231,407
+Maize,Sandy Loam,"Cool, Moist",Weekly,NPK Mix,Biological Control,109,2931,152
+Soybean,Clay Loam,"Warm, Moderate",Every 2 Days,NPK Mix,Neem Spray,101,5939,179
+Wheat,Clayey,"Cool, Dry",Weekly,NPK Mix,Pesticide Spray,122,3910,268
+Rice,Clayey,"Warm, Moderate",Daily,Organic Compost,Pesticide Spray,71,5084,201
+Soybean,Clayey,"Cool, Dry",Twice a Week,Potassium-rich,Neem Spray,130,4594,174
+Soybean,Sandy Loam,"Cool, Dry",Twice a Week,Phosphorus-rich,Pesticide Spray,120,4090,249
+Potato,Sandy,"Cool, Dry",Weekly,NPK Mix,Biological Control,97,3387,356
+Cotton,Sandy Loam,"Cool, Dry",Every 3 Days,Organic Compost,Neem Spray,78,5949,471
+Maize,Clayey,"Moderate, Dry",Twice a Week,Organic Compost,Crop Rotation,76,3949,531
+Potato,Loamy,"Cool, Dry",Every 2 Days,Potassium-rich,Neem Spray,144,2703,326
+Barley,Clayey,"Cool, Moist",Every 2 Days,Potassium-rich,Neem Spray,166,4452,170
+Barley,Clayey,"Cool, Moist",Every 2 Days,NPK Mix,Pesticide Spray,167,5081,289
+Tomato,Clayey,"Warm, Moderate",Twice a Week,NPK Mix,Neem Spray,114,2382,168
+Barley,Clay Loam,"Warm, Moderate",Every 3 Days,Nitrogen-based,Neem Spray,143,4881,521
+Sugarcane,Clayey,"Moderate, Dry",Twice a Week,Organic Compost,Pesticide Spray,112,5714,424
+Barley,Clay Loam,"Warm, Humid",Weekly,Phosphorus-rich,Pesticide Spray,160,5502,597
+Tomato,Loamy,"Cool, Moist",Weekly,Nitrogen-based,Biological Control,177,4713,289
+Tomato,Sandy Loam,"Cool, Moist",Every 3 Days,Phosphorus-rich,Pesticide Spray,84,5116,589
+Sugarcane,Sandy,"Warm, Moderate",Twice a Week,Potassium-rich,Biological Control,80,3866,469
+Onion,Clayey,"Warm, Moderate",Twice a Week,Nitrogen-based,Neem Spray,153,4506,210
+Sugarcane,Sandy Loam,"Warm, Moderate",Every 3 Days,Phosphorus-rich,Pesticide Spray,131,2539,343
+Barley,Clay Loam,"Cool, Dry",Twice a Week,NPK Mix,Crop Rotation,139,5568,208
+Soybean,Clayey,"Warm, Moderate",Daily,Organic Compost,Pesticide Spray,83,2717,589
+Wheat,Sandy,"Cool, Dry",Weekly,Organic Compost,Manual Removal,62,4166,405
+Soybean,Sandy Loam,"Moderate, Dry",Daily,Phosphorus-rich,Biological Control,129,5192,313
+Onion,Loamy,"Moderate, Dry",Twice a Week,Nitrogen-based,Crop Rotation,62,2159,490
+Onion,Sandy,"Cool, Dry",Daily,NPK Mix,Crop Rotation,90,2910,564
+Barley,Clay Loam,"Cool, Dry",Every 3 Days,NPK Mix,Pesticide Spray,63,5129,387
+Sugarcane,Clayey,"Cool, Moist",Twice a Week,Organic Compost,Manual Removal,177,5250,261
+Rice,Sandy Loam,"Warm, Humid",Weekly,Organic Compost,Pesticide Spray,98,3604,285
+Soybean,Loamy,"Warm, Moderate",Daily,NPK Mix,Neem Spray,78,4849,298
+Wheat,Clay Loam,"Warm, Moderate",Daily,Organic Compost,Manual Removal,115,3751,580
+Cotton,Sandy Loam,"Warm, Humid",Every 3 Days,Phosphorus-rich,Manual Removal,96,5395,461
+Potato,Sandy Loam,"Warm, Humid",Daily,Phosphorus-rich,Neem Spray,102,3224,279
+Onion,Clay Loam,"Warm, Moderate",Every 3 Days,Nitrogen-based,Biological Control,107,3954,357
+Soybean,Loamy,"Cool, Moist",Twice a Week,NPK Mix,Pesticide Spray,154,2994,280
+Wheat,Sandy Loam,"Warm, Humid",Twice a Week,Nitrogen-based,Crop Rotation,115,4617,414
+Soybean,Clay Loam,"Cool, Moist",Daily,Nitrogen-based,Pesticide Spray,94,3571,197
+Wheat,Clay Loam,"Warm, Moderate",Every 2 Days,Organic Compost,Crop Rotation,91,4609,472
+Rice,Clayey,"Moderate, Dry",Twice a Week,NPK Mix,Neem Spray,129,3400,185
+Soybean,Clayey,"Moderate, Dry",Every 2 Days,Phosphorus-rich,Crop Rotation,134,3209,242
+Onion,Clayey,"Cool, Moist",Daily,NPK Mix,Pesticide Spray,175,5420,560
+Soybean,Clayey,"Warm, Moderate",Every 3 Days,NPK Mix,Manual Removal,108,2218,257
+Tomato,Clayey,"Cool, Moist",Every 3 Days,Organic Compost,Neem Spray,147,4097,514
+Onion,Clay Loam,"Warm, Moderate",Weekly,NPK Mix,Biological Control,63,2460,374
+Cotton,Clay Loam,"Warm, Moderate",Daily,Nitrogen-based,Manual Removal,75,2180,556
+Rice,Loamy,"Cool, Dry",Twice a Week,Phosphorus-rich,Manual Removal,131,3928,279
+Maize,Sandy Loam,"Cool, Moist",Every 3 Days,Potassium-rich,Neem Spray,122,5526,188
+Onion,Clayey,"Warm, Humid",Every 2 Days,Potassium-rich,Biological Control,84,3588,158
+Tomato,Loamy,"Warm, Moderate",Every 2 Days,Nitrogen-based,Pesticide Spray,82,2114,475
+Soybean,Clay Loam,"Warm, Moderate",Weekly,Nitrogen-based,Pesticide Spray,67,4060,320
+Wheat,Loamy,"Warm, Humid",Every 2 Days,Potassium-rich,Manual Removal,100,2769,217
+Tomato,Clayey,"Warm, Humid",Every 2 Days,Phosphorus-rich,Biological Control,93,3571,431
+Maize,Loamy,"Moderate, Dry",Every 2 Days,NPK Mix,Crop Rotation,89,5802,575
+Potato,Sandy,"Warm, Moderate",Daily,Phosphorus-rich,Manual Removal,162,2995,494
+Cotton,Clay Loam,"Warm, Humid",Twice a Week,Phosphorus-rich,Pesticide Spray,104,2071,448
+Tomato,Clayey,"Warm, Moderate",Twice a Week,Nitrogen-based,Crop Rotation,111,4324,458
+Barley,Clay Loam,"Warm, Humid",Weekly,Organic Compost,Biological Control,170,2696,436
+Barley,Sandy,"Moderate, Dry",Every 3 Days,Organic Compost,Neem Spray,104,4999,510
+Barley,Sandy Loam,"Cool, Dry",Weekly,Nitrogen-based,Pesticide Spray,174,4794,475
+Tomato,Loamy,"Cool, Moist",Every 2 Days,Nitrogen-based,Pesticide Spray,134,2504,233
+Potato,Sandy,"Cool, Dry",Twice a Week,Phosphorus-rich,Biological Control,95,4588,545
+Potato,Clay Loam,"Moderate, Dry",Daily,Phosphorus-rich,Manual Removal,68,4777,194
+Barley,Clay Loam,"Moderate, Dry",Twice a Week,NPK Mix,Pesticide Spray,151,2802,256
+Cotton,Clayey,"Warm, Humid",Every 3 Days,Potassium-rich,Neem Spray,77,3267,234
+Onion,Sandy,"Warm, Moderate",Every 3 Days,Organic Compost,Biological Control,92,2345,586
+Onion,Clay Loam,"Cool, Dry",Daily,Potassium-rich,Pesticide Spray,180,5842,494
+Rice,Clay Loam,"Moderate, Dry",Weekly,Phosphorus-rich,Manual Removal,86,2990,549
+Rice,Loamy,"Cool, Moist",Twice a Week,Potassium-rich,Biological Control,94,3005,242
+Onion,Clay Loam,"Moderate, Dry",Daily,Nitrogen-based,Crop Rotation,107,2431,582
+Sugarcane,Loamy,"Warm, Humid",Weekly,NPK Mix,Crop Rotation,66,4165,180
+Soybean,Sandy,"Warm, Moderate",Every 2 Days,Organic Compost,Pesticide Spray,128,5636,319
+Sugarcane,Sandy,"Warm, Humid",Every 3 Days,NPK Mix,Manual Removal,97,5209,334
+Wheat,Sandy,"Warm, Moderate",Weekly,Nitrogen-based,Neem Spray,104,2202,273
+Potato,Sandy,"Warm, Humid",Every 3 Days,Organic Compost,Pesticide Spray,120,2147,384
+Cotton,Sandy,"Cool, Moist",Weekly,Potassium-rich,Pesticide Spray,144,3653,458
+Rice,Sandy Loam,"Cool, Moist",Twice a Week,Organic Compost,Crop Rotation,90,3125,570
+Sugarcane,Sandy Loam,"Warm, Moderate",Every 3 Days,Organic Compost,Biological Control,162,5163,334
+Wheat,Clay Loam,"Cool, Dry",Daily,Phosphorus-rich,Biological Control,136,5897,258
+Barley,Sandy Loam,"Cool, Dry",Daily,Potassium-rich,Pesticide Spray,66,2766,415
+Tomato,Sandy Loam,"Warm, Moderate",Every 2 Days,NPK Mix,Pesticide Spray,115,3425,595
+Maize,Sandy,"Warm, Moderate",Weekly,Potassium-rich,Pesticide Spray,116,5550,434
+Cotton,Sandy Loam,"Warm, Humid",Every 2 Days,Organic Compost,Pesticide Spray,170,3083,429
+Onion,Loamy,"Cool, Moist",Weekly,Phosphorus-rich,Crop Rotation,93,4547,151
+Maize,Clayey,"Warm, Moderate",Weekly,Potassium-rich,Neem Spray,138,5611,503
+Maize,Clayey,"Cool, Dry",Every 3 Days,Phosphorus-rich,Biological Control,144,2203,485
+Soybean,Clay Loam,"Warm, Moderate",Every 3 Days,Organic Compost,Pesticide Spray,154,4816,432
+Barley,Sandy Loam,"Cool, Moist",Daily,Phosphorus-rich,Crop Rotation,151,3823,156
+Onion,Sandy Loam,"Cool, Moist",Daily,NPK Mix,Pesticide Spray,176,2647,204
+Potato,Clayey,"Warm, Moderate",Twice a Week,Organic Compost,Pesticide Spray,172,2033,472
+Maize,Clayey,"Warm, Moderate",Weekly,Organic Compost,Biological Control,146,2105,417
+Potato,Sandy Loam,"Warm, Moderate",Daily,Organic Compost,Biological Control,150,2202,382
+Rice,Clayey,"Cool, Moist",Every 3 Days,Phosphorus-rich,Crop Rotation,140,3411,335
+Onion,Sandy,"Cool, Dry",Every 3 Days,Nitrogen-based,Crop Rotation,158,3753,406
+Cotton,Sandy,"Warm, Humid",Twice a Week,Potassium-rich,Pesticide Spray,90,3541,225
+Rice,Clayey,"Warm, Humid",Every 3 Days,Phosphorus-rich,Neem Spray,119,4558,417
+Soybean,Loamy,"Cool, Dry",Daily,Phosphorus-rich,Biological Control,129,4513,595
+Barley,Loamy,"Warm, Moderate",Every 2 Days,NPK Mix,Crop Rotation,86,2601,398
+Barley,Clayey,"Cool, Dry",Every 2 Days,Nitrogen-based,Biological Control,66,4979,586
+Maize,Clay Loam,"Warm, Humid",Twice a Week,Organic Compost,Neem Spray,89,4425,538
+Tomato,Loamy,"Warm, Moderate",Every 2 Days,Nitrogen-based,Neem Spray,127,4478,203
+Onion,Clay Loam,"Warm, Moderate",Every 3 Days,Phosphorus-rich,Crop Rotation,105,5930,417
+Rice,Clayey,"Moderate, Dry",Every 2 Days,Phosphorus-rich,Neem Spray,66,3866,153
+Potato,Clay Loam,"Warm, Humid",Every 2 Days,Organic Compost,Crop Rotation,162,4131,196
+Tomato,Clayey,"Cool, Moist",Weekly,Phosphorus-rich,Neem Spray,121,3364,237
+Cotton,Clayey,"Warm, Moderate",Every 3 Days,Phosphorus-rich,Manual Removal,109,2350,234
+Wheat,Sandy,"Moderate, Dry",Daily,Phosphorus-rich,Crop Rotation,146,3272,338
+Maize,Clayey,"Moderate, Dry",Twice a Week,Potassium-rich,Pesticide Spray,127,5339,408
+Soybean,Loamy,"Cool, Moist",Every 3 Days,Phosphorus-rich,Pesticide Spray,68,5767,274
+Onion,Clayey,"Warm, Humid",Twice a Week,Phosphorus-rich,Manual Removal,99,3973,209
+Potato,Loamy,"Warm, Humid",Every 2 Days,Organic Compost,Manual Removal,178,4841,368
+Cotton,Sandy Loam,"Cool, Moist",Every 3 Days,Nitrogen-based,Pesticide Spray,95,4503,212
+Maize,Sandy Loam,"Cool, Dry",Every 3 Days,Phosphorus-rich,Neem Spray,105,4255,251
+Wheat,Sandy Loam,"Cool, Dry",Weekly,Potassium-rich,Crop Rotation,96,2961,158
+Maize,Clayey,"Cool, Dry",Twice a Week,Potassium-rich,Neem Spray,131,3116,539
+Sugarcane,Sandy Loam,"Warm, Humid",Every 2 Days,Potassium-rich,Neem Spray,86,4888,216
+Potato,Clay Loam,"Cool, Moist",Twice a Week,NPK Mix,Manual Removal,138,2307,426
+Wheat,Clayey,"Moderate, Dry",Daily,Nitrogen-based,Pesticide Spray,83,3714,368
+Onion,Sandy,"Warm, Moderate",Daily,Organic Compost,Biological Control,130,3157,291
+Soybean,Sandy,"Warm, Moderate",Every 2 Days,Potassium-rich,Crop Rotation,112,4804,180
+Maize,Clay Loam,"Cool, Moist",Twice a Week,Phosphorus-rich,Crop Rotation,67,5077,383
+Barley,Loamy,"Moderate, Dry",Every 3 Days,Phosphorus-rich,Biological Control,121,3143,256
+Onion,Clayey,"Cool, Moist",Daily,NPK Mix,Manual Removal,167,2684,320
+Maize,Loamy,"Moderate, Dry",Weekly,Phosphorus-rich,Biological Control,124,2754,287
+Potato,Clayey,"Warm, Moderate",Weekly,Phosphorus-rich,Crop Rotation,136,5761,175
+Cotton,Clayey,"Warm, Humid",Every 3 Days,Potassium-rich,Manual Removal,158,4905,357
+Soybean,Loamy,"Moderate, Dry",Every 3 Days,Nitrogen-based,Neem Spray,76,4988,562
+Wheat,Sandy Loam,"Warm, Humid",Twice a Week,Organic Compost,Manual Removal,69,3362,376
+Cotton,Clay Loam,"Moderate, Dry",Daily,Organic Compost,Crop Rotation,63,2843,587
+Cotton,Clayey,"Warm, Moderate",Twice a Week,Organic Compost,Manual Removal,152,3146,482
+Cotton,Loamy,"Cool, Moist",Every 2 Days,NPK Mix,Neem Spray,75,2172,266
+Rice,Sandy,"Warm, Moderate",Twice a Week,NPK Mix,Manual Removal,179,2328,577
+Sugarcane,Clay Loam,"Warm, Moderate",Daily,Phosphorus-rich,Neem Spray,93,4727,296
+Rice,Clayey,"Moderate, Dry",Twice a Week,Nitrogen-based,Manual Removal,64,5889,449
+Tomato,Loamy,"Moderate, Dry",Weekly,NPK Mix,Pesticide Spray,81,2859,339
+Maize,Loamy,"Warm, Humid",Daily,NPK Mix,Pesticide Spray,156,5593,183
+Onion,Sandy,"Moderate, Dry",Every 2 Days,Phosphorus-rich,Manual Removal,87,3169,264
+Soybean,Sandy Loam,"Moderate, Dry",Every 2 Days,Organic Compost,Pesticide Spray,170,3292,311
+Tomato,Sandy,"Cool, Moist",Weekly,Organic Compost,Crop Rotation,70,2546,276
+Cotton,Clay Loam,"Warm, Humid",Every 3 Days,Nitrogen-based,Biological Control,91,4738,352
+Cotton,Clayey,"Warm, Moderate",Every 3 Days,Phosphorus-rich,Pesticide Spray,78,2581,365
+Sugarcane,Loamy,"Warm, Moderate",Weekly,Organic Compost,Biological Control,179,5172,571
+Barley,Sandy,"Warm, Moderate",Daily,Potassium-rich,Pesticide Spray,102,5939,238
+Cotton,Clayey,"Moderate, Dry",Twice a Week,Nitrogen-based,Crop Rotation,146,3880,593
+Cotton,Loamy,"Cool, Moist",Twice a Week,Phosphorus-rich,Neem Spray,79,5164,386
+Barley,Clayey,"Cool, Moist",Every 2 Days,Phosphorus-rich,Crop Rotation,121,2581,483
+Maize,Loamy,"Cool, Dry",Weekly,Nitrogen-based,Crop Rotation,113,3691,536
+Sugarcane,Clayey,"Warm, Moderate",Twice a Week,Nitrogen-based,Pesticide Spray,134,2589,369
+Tomato,Sandy,"Cool, Dry",Every 2 Days,Potassium-rich,Pesticide Spray,172,5680,500
+Maize,Sandy Loam,"Warm, Humid",Weekly,NPK Mix,Biological Control,76,4018,535
+Barley,Clayey,"Warm, Humid",Every 2 Days,Potassium-rich,Neem Spray,180,2656,197
+Soybean,Clayey,"Warm, Moderate",Twice a Week,Organic Compost,Pesticide Spray,89,5034,372
+Barley,Loamy,"Warm, Moderate",Weekly,Organic Compost,Biological Control,107,3769,576
+Maize,Sandy Loam,"Warm, Moderate",Every 3 Days,Potassium-rich,Manual Removal,99,3402,169
+Tomato,Sandy Loam,"Warm, Moderate",Every 3 Days,Organic Compost,Crop Rotation,108,2952,304
+Wheat,Clayey,"Moderate, Dry",Every 3 Days,Nitrogen-based,Crop Rotation,129,4286,256
+Sugarcane,Sandy Loam,"Cool, Dry",Daily,Phosphorus-rich,Neem Spray,153,4570,574
+Maize,Clayey,"Warm, Moderate",Weekly,Potassium-rich,Crop Rotation,146,5846,543
+Potato,Sandy,"Warm, Humid",Weekly,Nitrogen-based,Biological Control,108,2122,179
+Cotton,Clayey,"Warm, Humid",Weekly,Nitrogen-based,Neem Spray,101,4963,523
+Rice,Clayey,"Cool, Dry",Every 3 Days,Potassium-rich,Crop Rotation,176,5959,516
+Maize,Clayey,"Moderate, Dry",Daily,NPK Mix,Neem Spray,65,5823,543
+Wheat,Loamy,"Cool, Dry",Every 2 Days,Potassium-rich,Pesticide Spray,177,2864,207
+Tomato,Sandy Loam,"Warm, Humid",Twice a Week,Organic Compost,Manual Removal,64,2403,379
+Potato,Loamy,"Cool, Dry",Daily,Nitrogen-based,Biological Control,121,2955,273
+Potato,Sandy,"Cool, Moist",Every 2 Days,Nitrogen-based,Manual Removal,66,5201,255
+Wheat,Clay Loam,"Warm, Moderate",Daily,Organic Compost,Crop Rotation,68,5527,592
+Onion,Sandy,"Cool, Dry",Twice a Week,Potassium-rich,Neem Spray,160,3339,235
+Soybean,Clay Loam,"Cool, Dry",Every 2 Days,Organic Compost,Manual Removal,118,5750,224
+Maize,Sandy Loam,"Warm, Moderate",Weekly,Potassium-rich,Biological Control,101,2769,303
+Cotton,Clay Loam,"Moderate, Dry",Weekly,Phosphorus-rich,Neem Spray,113,4875,357
+Cotton,Loamy,"Cool, Dry",Daily,Organic Compost,Biological Control,137,5713,285
+Sugarcane,Sandy,"Warm, Humid",Weekly,Potassium-rich,Manual Removal,156,5868,464
+Tomato,Clay Loam,"Moderate, Dry",Weekly,NPK Mix,Biological Control,179,2462,512
+Potato,Loamy,"Cool, Dry",Twice a Week,Nitrogen-based,Crop Rotation,165,4610,302
+Sugarcane,Sandy,"Warm, Humid",Every 2 Days,Phosphorus-rich,Crop Rotation,160,3877,223
+Sugarcane,Clayey,"Moderate, Dry",Twice a Week,NPK Mix,Biological Control,98,3812,507
+Wheat,Sandy Loam,"Cool, Moist",Daily,Potassium-rich,Neem Spray,76,5626,472
+Potato,Clayey,"Moderate, Dry",Daily,Potassium-rich,Neem Spray,146,2041,200
+Potato,Sandy Loam,"Warm, Humid",Weekly,NPK Mix,Biological Control,95,3161,591
+Potato,Clay Loam,"Warm, Humid",Twice a Week,Organic Compost,Crop Rotation,106,4215,406
+Soybean,Clay Loam,"Cool, Moist",Every 2 Days,Potassium-rich,Neem Spray,140,4916,577
+Tomato,Loamy,"Cool, Dry",Every 2 Days,Potassium-rich,Pesticide Spray,67,5736,414
+Onion,Clay Loam,"Warm, Moderate",Every 2 Days,Potassium-rich,Biological Control,125,5930,443
+Sugarcane,Sandy,"Warm, Humid",Every 3 Days,Potassium-rich,Crop Rotation,116,4380,405
+Wheat,Clayey,"Cool, Dry",Weekly,Nitrogen-based,Biological Control,102,4371,200
+Barley,Sandy Loam,"Warm, Moderate",Every 3 Days,Potassium-rich,Biological Control,178,4056,165
+Barley,Clayey,"Warm, Moderate",Twice a Week,Phosphorus-rich,Pesticide Spray,142,2003,427
+Potato,Sandy,"Warm, Humid",Daily,Potassium-rich,Manual Removal,163,5001,579
+Barley,Sandy Loam,"Moderate, Dry",Every 3 Days,Nitrogen-based,Crop Rotation,63,3818,386
+Rice,Sandy Loam,"Cool, Moist",Weekly,Nitrogen-based,Neem Spray,130,2222,216
+Rice,Clayey,"Warm, Moderate",Twice a Week,Nitrogen-based,Crop Rotation,158,2926,245
+Rice,Loamy,"Warm, Moderate",Weekly,NPK Mix,Manual Removal,150,3206,523
+Potato,Sandy,"Warm, Humid",Weekly,NPK Mix,Neem Spray,162,4280,251
+Barley,Sandy Loam,"Moderate, Dry",Daily,Phosphorus-rich,Biological Control,153,3327,414
+Onion,Clayey,"Cool, Moist",Every 2 Days,Nitrogen-based,Pesticide Spray,90,5995,159
+Onion,Sandy Loam,"Cool, Dry",Twice a Week,Organic Compost,Neem Spray,109,5095,192
+Soybean,Sandy Loam,"Cool, Dry",Daily,Nitrogen-based,Pesticide Spray,151,4194,379
+Rice,Sandy Loam,"Cool, Moist",Weekly,NPK Mix,Biological Control,81,2696,580
+Rice,Sandy Loam,"Cool, Dry",Weekly,Organic Compost,Pesticide Spray,73,2191,244
+Sugarcane,Sandy,"Cool, Dry",Every 2 Days,Nitrogen-based,Neem Spray,117,3057,597
+Cotton,Clay Loam,"Warm, Humid",Twice a Week,Phosphorus-rich,Neem Spray,137,2781,468
+Maize,Clayey,"Moderate, Dry",Every 3 Days,Potassium-rich,Biological Control,69,5897,236
+Tomato,Clayey,"Warm, Moderate",Every 3 Days,Nitrogen-based,Manual Removal,117,2225,581
+Potato,Sandy Loam,"Moderate, Dry",Weekly,Nitrogen-based,Neem Spray,67,3000,278
+Potato,Clay Loam,"Cool, Dry",Weekly,Phosphorus-rich,Neem Spray,88,4024,401
+Rice,Loamy,"Warm, Moderate",Twice a Week,Organic Compost,Manual Removal,163,5243,391
+Wheat,Sandy Loam,"Warm, Moderate",Every 2 Days,NPK Mix,Pesticide Spray,86,5163,170
+Onion,Clayey,"Warm, Humid",Weekly,Organic Compost,Biological Control,137,5568,561
+Potato,Sandy Loam,"Warm, Moderate",Every 3 Days,Nitrogen-based,Pesticide Spray,67,5167,169
+Maize,Loamy,"Warm, Humid",Daily,Phosphorus-rich,Neem Spray,118,5168,491
+Soybean,Sandy Loam,"Cool, Moist",Twice a Week,Potassium-rich,Biological Control,180,3924,475
+Potato,Clay Loam,"Warm, Moderate",Every 3 Days,Organic Compost,Crop Rotation,177,2666,468
+Sugarcane,Sandy,"Moderate, Dry",Every 2 Days,Potassium-rich,Biological Control,170,5563,595
+Wheat,Loamy,"Warm, Humid",Twice a Week,Potassium-rich,Pesticide Spray,127,3067,325
+Barley,Clayey,"Cool, Dry",Every 2 Days,NPK Mix,Biological Control,96,2230,234
+Cotton,Loamy,"Warm, Humid",Weekly,Nitrogen-based,Manual Removal,163,3748,586
+Sugarcane,Loamy,"Cool, Moist",Weekly,Phosphorus-rich,Manual Removal,161,4626,531
+Barley,Loamy,"Warm, Moderate",Daily,Potassium-rich,Neem Spray,167,5593,367
+Onion,Sandy,"Warm, Humid",Every 2 Days,Organic Compost,Pesticide Spray,126,2989,156
+Soybean,Clayey,"Warm, Moderate",Daily,Organic Compost,Biological Control,63,4042,559
+Tomato,Clayey,"Cool, Moist",Weekly,Organic Compost,Manual Removal,82,5896,265
+Tomato,Clay Loam,"Cool, Moist",Every 3 Days,Phosphorus-rich,Manual Removal,143,2249,542
+Soybean,Clay Loam,"Moderate, Dry",Every 3 Days,Potassium-rich,Crop Rotation,83,2281,267
+Potato,Sandy Loam,"Warm, Humid",Every 2 Days,Phosphorus-rich,Manual Removal,105,3430,164
+Potato,Sandy Loam,"Cool, Moist",Every 2 Days,Organic Compost,Neem Spray,122,5249,595
+Wheat,Clay Loam,"Cool, Moist",Daily,Nitrogen-based,Manual Removal,70,2407,333
+Sugarcane,Clayey,"Moderate, Dry",Weekly,NPK Mix,Manual Removal,121,3375,451
+Rice,Clay Loam,"Moderate, Dry",Daily,Organic Compost,Neem Spray,101,5289,310
+Potato,Sandy,"Warm, Moderate",Every 3 Days,Organic Compost,Neem Spray,100,5371,433
+Tomato,Sandy,"Moderate, Dry",Every 3 Days,Potassium-rich,Pesticide Spray,81,5272,443
+Maize,Sandy,"Warm, Moderate",Twice a Week,Phosphorus-rich,Biological Control,93,3111,453
+Cotton,Clay Loam,"Cool, Moist",Daily,Organic Compost,Manual Removal,87,2829,565
+Tomato,Sandy,"Warm, Humid",Every 2 Days,Potassium-rich,Manual Removal,121,2473,510
+Soybean,Clayey,"Warm, Moderate",Twice a Week,Potassium-rich,Manual Removal,168,2945,558
+Wheat,Sandy,"Warm, Moderate",Every 2 Days,Organic Compost,Neem Spray,94,4453,205
+Maize,Clay Loam,"Cool, Dry",Daily,Organic Compost,Biological Control,103,3405,246
+Potato,Clay Loam,"Cool, Dry",Weekly,Nitrogen-based,Pesticide Spray,164,3225,332
+Cotton,Clay Loam,"Warm, Humid",Every 3 Days,Organic Compost,Crop Rotation,80,2856,514
+Tomato,Clayey,"Cool, Dry",Daily,NPK Mix,Pesticide Spray,170,4134,583
+Rice,Sandy,"Cool, Moist",Every 3 Days,Phosphorus-rich,Pesticide Spray,157,5978,188
+Soybean,Loamy,"Cool, Moist",Every 2 Days,Phosphorus-rich,Crop Rotation,101,3548,223
+Potato,Loamy,"Cool, Dry",Twice a Week,NPK Mix,Crop Rotation,91,2629,290
+Soybean,Clay Loam,"Cool, Dry",Twice a Week,Nitrogen-based,Biological Control,160,2531,156
+Rice,Sandy Loam,"Moderate, Dry",Every 3 Days,NPK Mix,Pesticide Spray,172,2610,190
+Onion,Clayey,"Cool, Moist",Weekly,Potassium-rich,Biological Control,146,5094,582
+Sugarcane,Clay Loam,"Warm, Moderate",Weekly,NPK Mix,Neem Spray,93,5379,544
+Soybean,Sandy Loam,"Warm, Moderate",Twice a Week,NPK Mix,Neem Spray,127,4527,579
+Soybean,Sandy,"Moderate, Dry",Twice a Week,Organic Compost,Neem Spray,62,2329,233
+Onion,Clayey,"Warm, Humid",Every 2 Days,Phosphorus-rich,Neem Spray,117,2099,361
+Onion,Clay Loam,"Warm, Humid",Twice a Week,Nitrogen-based,Pesticide Spray,94,5403,525
+Maize,Clayey,"Cool, Dry",Daily,Phosphorus-rich,Biological Control,60,3942,475
+Potato,Sandy,"Moderate, Dry",Twice a Week,Phosphorus-rich,Pesticide Spray,162,4820,465
+Maize,Clay Loam,"Cool, Dry",Daily,Organic Compost,Crop Rotation,68,5105,491
+Maize,Clayey,"Cool, Dry",Every 2 Days,Phosphorus-rich,Biological Control,85,5822,465
+Wheat,Clayey,"Cool, Dry",Twice a Week,Organic Compost,Neem Spray,112,4998,450
+Barley,Loamy,"Moderate, Dry",Daily,NPK Mix,Biological Control,156,5323,590
+Potato,Sandy,"Warm, Moderate",Daily,Nitrogen-based,Biological Control,90,5292,384
+Sugarcane,Sandy Loam,"Warm, Moderate",Every 2 Days,NPK Mix,Neem Spray,133,4060,509
+Wheat,Clay Loam,"Warm, Moderate",Weekly,Nitrogen-based,Manual Removal,128,4461,369
+Maize,Clay Loam,"Warm, Humid",Daily,Phosphorus-rich,Manual Removal,166,2282,469
+Tomato,Clay Loam,"Moderate, Dry",Twice a Week,NPK Mix,Pesticide Spray,145,3962,419
+Soybean,Sandy,"Warm, Moderate",Every 2 Days,Potassium-rich,Biological Control,137,2193,367
+Tomato,Loamy,"Warm, Humid",Daily,Potassium-rich,Biological Control,70,5524,596
+Onion,Loamy,"Cool, Dry",Twice a Week,Potassium-rich,Neem Spray,126,3981,521
+Onion,Sandy,"Warm, Humid",Every 2 Days,NPK Mix,Crop Rotation,82,2572,172
+Tomato,Clayey,"Warm, Humid",Daily,Nitrogen-based,Biological Control,158,3200,252
+Tomato,Clay Loam,"Cool, Moist",Every 3 Days,Organic Compost,Pesticide Spray,61,2271,342
+Tomato,Clayey,"Cool, Moist",Daily,Potassium-rich,Biological Control,95,2576,158
+Onion,Loamy,"Warm, Humid",Daily,Organic Compost,Crop Rotation,157,3479,157
+Soybean,Loamy,"Warm, Humid",Daily,NPK Mix,Pesticide Spray,99,4413,552
+Rice,Loamy,"Warm, Moderate",Every 3 Days,Phosphorus-rich,Biological Control,101,3350,153
+Sugarcane,Loamy,"Warm, Moderate",Every 3 Days,Nitrogen-based,Biological Control,169,3127,221
+Rice,Clayey,"Cool, Moist",Every 2 Days,Nitrogen-based,Biological Control,93,3974,247
+Rice,Sandy Loam,"Cool, Dry",Every 2 Days,Potassium-rich,Biological Control,96,4955,332
+Potato,Clayey,"Cool, Moist",Every 2 Days,Potassium-rich,Biological Control,89,3953,409
+Maize,Sandy Loam,"Cool, Dry",Weekly,Potassium-rich,Manual Removal,62,4995,533
+Cotton,Loamy,"Cool, Dry",Every 2 Days,Phosphorus-rich,Pesticide Spray,163,5975,425

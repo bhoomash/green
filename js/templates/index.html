@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Crop Guidance Chatbot</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f0f0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            background-image: linear-gradient(135deg, #8a2be2, #4e7a8a);
+        }
+
+        .chat-container {
+            width: 90%;
+            max-width: 600px;
+            padding: 30px;
+            border-radius: 12px;
+            background: rgba(255, 255, 255, 0.9);
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+            text-align: center;
+        }
+
+        h1 {
+            color: #333;
+            font-size: 1.8em;
+            margin-bottom: 20px;
+        }
+
+        .chat-box {
+            max-height: 300px;
+            overflow-y: auto;
+            padding: 15px;
+            background: #fff;
+            border-radius: 8px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+            text-align: left;
+            font-size: 1em;
+            color: #333;
+        }
+
+        .chat-box p {
+            margin: 10px 0;
+            padding: 8px;
+            border-radius: 6px;
+            max-width: 80%;
+        }
+
+        .user-message {
+            background-color: #8a2be2;
+            color: #fff;
+            align-self: flex-end;
+        }
+
+        .bot-message {
+            background-color: #eee;
+            color: #333;
+            align-self: flex-start;
+        }
+
+        .input-container {
+            margin-top: 15px;
+            display: flex;
+            justify-content: center;
+        }
+
+        input[type="text"] {
+            flex: 1;
+            padding: 12px;
+            border-radius: 8px;
+            border: 2px solid #ccc;
+            font-size: 16px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+            transition: border 0.3s ease;
+        }
+
+        input[type="text"]:focus {
+            border-color: #4e7a8a;
+            outline: none;
+        }
+
+        button {
+            background-color: #4e7a8a;
+            color: white;
+            padding: 12px 20px;
+            font-size: 16px;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+            margin-left: 10px;
+        }
+
+        button:hover {
+            background-color: #6c9c9c;
+        }
+
+        footer {
+            font-size: 0.9em;
+            text-align: center;
+            color: #777;
+            margin-top: 15px;
+        }
+    </style>
+</head>
+<body>
+    <div class="chat-container">
+        <h1>Crop Guidance Chatbot</h1>
+        <div class="chat-box" id="chat-box">
+            <p class="bot-message"><strong>Chatbot:</strong> Ask me about crops!</p>
+        </div>
+
+        <div class="input-container">
+            <input type="text" id="user_input" placeholder="Ask about crops..." required>
+            <button onclick="sendMessage()">Ask</button>
+        </div>
+
+        <footer>Powered by Boomesh</footer>
+    </div>
+
+    <script>
+        function sendMessage() {
+            let userInput = document.getElementById("user_input").value.trim();
+            if (userInput === "") return;
+
+            let chatBox = document.getElementById("chat-box");
+
+            // Display user's message
+            let userMessage = document.createElement("p");
+            userMessage.classList.add("user-message");
+            userMessage.innerHTML = `<strong>You:</strong> ${userInput}`;
+            chatBox.appendChild(userMessage);
+
+            // Clear input field
+            document.getElementById("user_input").value = "";
+
+            // Send message to Flask API
+            fetch("/api/chat", {
+                method: "POST",
+                body: new URLSearchParams({ "user_input": userInput }),
+                headers: { "Content-Type": "application/x-www-form-urlencoded" }
+            })
+            .then(response => response.json())
+            .then(data => {
+                // Display chatbot's response
+                let botMessage = document.createElement("p");
+                botMessage.classList.add("bot-message");
+                botMessage.innerHTML = `<strong>boomesh ai:</strong> ${data.response}`;
+                chatBox.appendChild(botMessage);
+
+                // Auto-scroll to latest message
+                chatBox.scrollTop = chatBox.scrollHeight;
+            })
+            .catch(error => {
+                console.error("Error:", error);
+            });
+        }
+    </script>
+</body>
+</html>
